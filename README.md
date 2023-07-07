@@ -6,3 +6,8 @@ Radial Menu Used for ESX (TESTED ESX 1.9.4)
 
 **VEHICLE MENU**
 https://github.com/Manvaril/vehcontrol
+
+
+# Requirements
+-OX_LIB
+-ES_EXTENDED
